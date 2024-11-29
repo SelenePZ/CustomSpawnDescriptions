@@ -1,0 +1,16 @@
+version=1
+id=3373820369
+title=Custom Spawn Descriptions
+description=Allows setting "description" and "thumb"nail on custom spawn points.
+description=
+description=Thumbnails can be provided as a link to a PNG file.
+description=
+description=Simply set the "description" and "thumb" fields in your *_spawnregions.lua and they will be used on the Spawn Selection screen.
+description=
+description=[h1]Contact[/h1]
+description=
+description=[b]Our Roleplay Server[/b]: https://my.selene.world/scpn
+description=[b]Discord[/b]: https://discord.gg/S7maQVRRa9
+description=[b]Patreon[/b]: https://www.patreon.com/BlayTheNinth
+tags=Build 41;Framework;Interface;Multiplayer
+visibility=public
